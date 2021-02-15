@@ -62,9 +62,7 @@ class Faicchia(discord.Client):
 faicchia = Faicchia()
 
 # BOT token
-TOKEN = 'NjkzMTk2NTMzNzg4ODM1OTUw.Xn5jlA.Iz2Y62qi4-qLGqAUrX6BuFV7KdE'
-
-# Joins a channel
+TOKEN = 'pippotronix'
 
 # Starting the bot
 faicchia.run(TOKEN)
